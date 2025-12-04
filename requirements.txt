@@ -1,8 +1,9 @@
 fastapi
 uvicorn[standard]
 
-torch==2.2.2+cpu --extra-index-url https://download.pytorch.org/whl/cpu
-torch-geometric==2.7.0
+torch==2.2.2
+torch-geometric==2.5.3
+
 
 numpy==1.26.4
 pandas==2.2.2
