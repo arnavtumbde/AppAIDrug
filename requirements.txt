@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+
+torch==2.2.2+cpu --extra-index-url https://download.pytorch.org/whl/cpu
+torch-geometric==2.7.0
+
+numpy==1.26.4
+pandas==2.2.2
+scikit-learn==1.6.1
+rdkit-pypi==2023.9.5
+selfies==2.1.1
+Pillow
