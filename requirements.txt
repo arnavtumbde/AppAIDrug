@@ -8,6 +8,6 @@ numpy==1.26.4
 pandas==2.2.2
 scikit-learn==1.6.1
 
-rdkit==2023.9.3
+rdkit-pypi==2022.9.5
 selfies==2.1.1
 Pillow
